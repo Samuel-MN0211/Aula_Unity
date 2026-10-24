@@ -1,0 +1,70 @@
+# Pastas geradas pelo Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Gerados pelo Asset Store Tools
+/[Aa]ssets/AssetStoreTools*
+
+# Plugins do Visual Studio Tools for Unity
+/[Aa]ssets/Plugins/Editor/JetBrains*
+
+# Configurações de IDE
+.vs/
+.vscode/
+.idea/
+.gradle/
+
+# Arquivos gerados automaticamente por IDEs
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Metas de arquivos ignorados acima
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Crash reports
+sysinfo.txt
+
+# Builds
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Crashlytics
+crashlytics-build.properties
+
+# Addressables
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+
+# Arquivos temporários de StreamingAssets
+/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
